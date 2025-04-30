@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/natalie-ava/portfolio/blob/main/images/artemotions.png" alt="Art Emotions Image" width="500">
+      <img src="" alt="Art Emotions Image" width="500">
     </td>
     <td>
       <h3> <a  href = "https://github.com/natalie-ava/ArtEmotions">Art Emotions</a></h3>
@@ -19,7 +19,7 @@
   </tr>
   <tr>
   <td>
-    <img src="https://github.com/natalie-ava/portfolio/blob/main/images/EDA_diabetes.png" alt="Diabetes EDA Image" width="500">
+    <img src="" alt="Diabetes EDA Image" width="500">
   </td>
   <td>
     <h3><a href="https://github.com/natalie-ava/portfolio/tree/main/EDA_diabetes">Diabetes & Fracture Prevalence EDA</a></h3>
@@ -30,7 +30,7 @@
 </tr>
   <tr>
   <td>
-    <img src="https://github.com/natalie-ava/portfolio/blob/main/images/data2399.png" alt="Workflow Automation Projects" width="500">
+    <img src="" alt="Workflow Automation Projects" width="500">
   </td>
   <td>
     <h3><a href="https://github.com/natalie-ava/workflow_automation/tree/main"> Workflow Automation with Python (DATA 2399)</a></h3>
