@@ -1,5 +1,5 @@
 # Madison Ramos
-*Data Science Portfolio* | Motivated Data Science student looking to gain real-world experience. Passion for Data Analytics and Visualization with knowledge of software programs and scripting languages. Possesses skills in time management and works well under pressure.
+*Data Science Portfolio* | Motivated Data Science student looking to gain real-world experience. 
 
 ## Education
 **University of the Incarnate Word**  
