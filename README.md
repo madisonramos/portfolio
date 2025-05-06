@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td>
-      <img src="/mnt/data/art_emotions.webp" alt="Art Emotions Image" width="500">
+      <img src="https://raw.githubusercontent.com/madisonramos/portfolio/refs/heads/main/art_emotions.webp" alt="Art Emotions Image" width="500">
     </td>
     <td>
       <h3> <a href="https://github.com/natalie-ava/ArtEmotions">Art Emotions</a></h3>
