@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td>
-      <img src="/mnt/data/student_performance.jpg" alt="Student Performance Project" width="500">
+      <img src="https://github.com/madisonramos/portfolio/blob/main/bone_fracture_lab.jpg" alt="Student Performance Project" width="500">
     </td>
     <td>
       <h3><a href="https://github.com/madisonramos/StudentPerformance">Student Performance</a></h3>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>
-      <img src="/mnt/data/bone_fracture_lab.jpg" alt="Bone Fracture Lab Project" width="500">
+      <img src="https://github.com/madisonramos/portfolio/blob/main/student_performance.jpg" alt="Bone Fracture Lab Project" width="500">
     </td>
     <td>
       <h3><a href="https://github.com/m-rafiul-islam/BoneFractureDataLab">Bone Fracture Lab</a></h3>
