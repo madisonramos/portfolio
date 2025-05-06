@@ -15,18 +15,6 @@
     <td>
       <h3> <a  href = "https://github.com/natalie-ava/ArtEmotions">Art Emotions</a></h3>
       <p>ArtEmotions aims to predict emotional responses to artworks by analyzing features such as art period, creation year, medium, and subject focus. Building upon the <a href="https://saifmohammad.com/WebPages/wikiartemotions.html">WikiArt Emotions dataset</a>, which comprises 4,105 artworks annotated for emotions evoked in observers, this project refines the data and develops a predictive model to classify viewer reactions as positive, negative, or mixed.
- </p>
-  </tr>
-  <tr>
-  <td>
-    <img src="" alt="Diabetes EDA Image" width="500">
-  </td>
-  <td>
-    <h3><a href="https://github.com/natalie-ava/portfolio/tree/main/EDA_diabetes">Diabetes & Fracture Prevalence EDA</a></h3>
-    <p>
-      This exploratory data analysis focuses on the relationship between diabetes, age, fracture prevalence, and bone health in a male population in San Antonio, TX. Health-related datasets were merged and processed using Python to identify diabetic and fracture status. These insights highlight age and race based health disparities and support broader public health recommendations.
-    </p>
-  </td>
 </tr>
   <tr>
   <td>
